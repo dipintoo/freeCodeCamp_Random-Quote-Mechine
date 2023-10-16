@@ -3,7 +3,7 @@
 Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan lolos pengujian untuk meraih sertifikasi [Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/) dari freeCodeCamp!
 
 ## Teknologi yang digunakan
-Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, Bootstrap, SASS, React, and jQuery. Dalam project [Random Quote Mechine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine) ini, saya coba kombinasi HTML, CSS, Bootstrap dan Jquery aja deh karena baru project pertama 😂. Ayo Mulai!
+Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, Bootstrap, SASS, React, and jQuery. Dalam project [Random Quote Mechine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine) ini, saya coba kombinasi HTML, CSS, Bootstrap dan Jquery aja deh karena baru project pertama 😂.
 
 ## User Stories
 
