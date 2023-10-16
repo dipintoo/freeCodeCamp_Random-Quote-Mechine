@@ -5,7 +5,7 @@ Project ini adalah yang pertama dari lima project yang harus kamu selesaikan dan
 ## Teknologi yang digunakan
 Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, Bootstrap, SASS, React, and jQuery. Dalam project [Random Quote Mechine](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine) ini. Saya memilih menggunakan kombinasi HTML, CSS, Bootstrap dan Jquery saja untuk project ini.
 
-## User Stories:
+## User Stories
 
 1. Saya dapat melihat elemen pembungkus dengan ID `quote-box`
 2. Di dalam `quote-box`, saya dapat melihat elemen dengan ID `text`
