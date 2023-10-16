@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Random Quote Mechine</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="wrapper container-fluid d-flex h-100 justify-content-center align-items-center">
+    <div id="quote-box" class="d-grid gap-3 bg-light rounded p-5">
+      <div class="quote-text fw-medium fs-3">
+        <span id="text"></span>
+      </div>
+      <div class="quote-author fs-5 text-end"><span id="author"></span></div>
+      <div class="buttons d-grid gap-2 mt-3">
+        <button class="button btn text-light" id="new-quote">Next Quote<i class="bi bi-arrow-right ms-2"></i></button>
+        <a class="btn btn-outline-primary" id="tweet-quote" title="Tweet this quote!" target="_top"><i
+            class="bi bi-twitter me-2"></i>Share on Twitter</a>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.0/jquery-ui.min.js"></script>
+  <script src="script.js"></script>
+</body>
+
+</html>
