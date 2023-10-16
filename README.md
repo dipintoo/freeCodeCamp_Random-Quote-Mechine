@@ -14,10 +14,10 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 5. Di dalam `quote-box`, saya dapat melihat elemen anchor yang dapat diklik dengan ID `tweet-quote`
 6. Saat pertama kali dimuat, mesin kutipan saya akan menampilkan kutipan acak di elemen dengan ID `text`
 7. Saat pertama kali dimuat, mesin kutipan saya akan menampilkan nama penulis kutipan acak di elemen dengan ID `author`
-8. Ketika tombol `#new-quote` diklik, mesin kutipan saya harus mengambil kutipan baru dan menampilkannya di elemen `#text`
-9. Mesin kutipan harus mengambil nama penulis kutipan baru ketika tombol `#new-quote` diklik dan menampilkannya di elemen `#author`
-10. Saya dapat membagikan kutipan saat ini dengan mengklik tombol **Share on Twitter** dengan ID `tweet-quote`. Elemen ini harus mencakup `"twitter.com/intent/tweet"` dalam atribut `href` untuk mengirim tweet kutipan saat ini.
-11. Elemen pembungkus `#quote-box` harus berada di tengah secara horizontal.
+8. Ketika tombol dengan ID `new-quote` diklik, mesin kutipan harus mengambil kutipan baru dan menampilkannya di elemen `text`
+9. Mesin kutipan harus menampilkan nama penulis ketika tombol dengan ID `new-quote` diklik dan menampilkannya di elemen `author`
+10. Saya dapat membagikan kutipan saat ini dengan mengklik tombol dengan ID `tweet-quote`. Elemen ini harus mencakup `"twitter.com/intent/tweet"` dalam atribut `href` untuk mengirim tweet kutipan saat ini.
+11. Elemen pembungkus `quote-box` harus berada di tengah secara horizontal.
 
 ## Coding
 
