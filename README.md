@@ -21,7 +21,7 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 
 ## Coding
 
-Kamu bisa ngoding langsung menggunakan template [codepen](https://codepen.io/pen?template=MJjpwO) ini atau dengan text editor favorit kamu. Di dalamnya sudah include aplikasi testing dari freeCodeCamp. Jangan lupa **Select Test Suite** sesuai dengan project mana yang kamu kerjakan saat ini. 
+Kamu bisa ngoding langsung menggunakan template [codepen](https://codepen.io/pen?template=MJjpwO). Di dalamnya sudah include aplikasi testing dari freeCodeCamp. Jangan lupa **Select Test Suite** sesuai dengan project mana yang kamu kerjakan saat ini. 
 
 ## Submit
 
