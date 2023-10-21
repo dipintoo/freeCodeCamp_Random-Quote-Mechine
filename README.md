@@ -19,7 +19,7 @@ Sebenarnya kamu bebas menggunakan kombinasi manapun dari HTML, JavaScript, CSS, 
 10. Saya dapat membagikan kutipan saat ini dengan mengklik tombol dengan ID `tweet-quote`. Elemen ini harus mencakup `"twitter.com/intent/tweet"` dalam atribut `href` untuk mengirim tweet kutipan saat ini.
 11. Elemen pembungkus `quote-box` harus berada di tengah secara horizontal.
 
-## Coding
+## Coding dan Testing
 
 Kamu bisa ngoding langsung menggunakan template [codepen](https://codepen.io/pen?template=MJjpwO). Di dalamnya sudah include aplikasi testing dari freeCodeCamp. Jangan lupa **Select Test Suite** sesuai dengan project mana yang kamu kerjakan saat ini. 
 
